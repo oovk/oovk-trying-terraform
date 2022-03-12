@@ -1,5 +1,5 @@
 # oovk-trying-terraform
-Trying IAAS Terraform Application
+Tasks Done in Previous Company Terraform Application
 
 ## Terraform commands: 
 - terraform init(initialize)
